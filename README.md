@@ -1,7 +1,7 @@
 # deep Classifier project
 
 
- # workflow
+## workflow
 Update config.yaml
 Update secrets.yaml [Optional]
 Update params.yaml
@@ -18,7 +18,7 @@ img
 STEP 1: Set the env variable | Get it from dagshub -> remote tab -> mlflow tab
 
 MLFLOW_TRACKING_URI= #https://dagshub.com/c17hawke/FSDS_NOV_deepCNNClassifier.mlflow
-MLFLOW_TRACKING_USERNAME=c17hawke
+MLFLOW_TRACKING_USERNAME=danishcyber-star
 MLFLOW_TRACKING_PASSWORD=<> \
 
 STEP 2: install mlflow
